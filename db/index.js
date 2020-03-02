@@ -2,7 +2,7 @@ const mongoose = require('mongoose')
 mongoose.Promise = mongoose.Promise
 // require('dotenv').config()
 // const mongo_uri = 'mongodb://127.0.0.1/test'
-const mongo_uri = "mongodb+srv://admin:admin@cluster0-prrym.mongodb.net/test?retryWrites=true&w=majority";
+const mongo_uri = "uurl";
 // mongoose.connect(process.env.MONGODB_URI, {
 //     auth: {
 //         user: process.env.MONGO_USER,
